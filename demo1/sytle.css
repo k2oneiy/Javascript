@@ -1,0 +1,50 @@
+body{
+
+    background:linear-gradient(to right,#00c6ff,#0072ff);
+    margin-top: 150px;
+    text-align: center;
+    
+}
+
+h3{
+    color: white;
+    font-weight: bold;
+}
+
+h3{
+    color: white;
+    font-weight: bold;
+}
+
+.input{
+    padding: 1;
+    border: none;
+    color: orangered;
+    font-weight: bold;
+    border: 5px solid white;
+    
+}
+
+
+h6{
+    color: white;
+    font-weight: bold;
+}
+
+.input1{
+    padding: 10px;
+    border: none;
+    color: orangered;
+    font-weight: bold;
+}
+
+button{
+    background: linear-gradient(#fe8c00,#f83600) ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border: none;
+    font-weight: bold;   
+}

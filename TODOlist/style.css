@@ -1,0 +1,38 @@
+
+
+
+.container{
+    background-color: orange;
+    margin: 150px auto;
+    width: 350px;
+    box-shadow: 7px -11px 46px 13px rgba(0,0,0,0.19);
+}
+
+
+.grey{
+    color: grey;
+    text-decoration: line-through;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    font-family: 'Dongle', sans-serif;
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+input{
+    margin:  0 -15px;
+    width: 110%;
+    border: none;
+}
+
+input:focus{
+    outline: none;
+}
